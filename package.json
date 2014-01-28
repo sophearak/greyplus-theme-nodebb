@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-theme-lavender",
+  "version": "0.0.19",
+  "description": "Lavender Theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-theme-lavender"
+  },
+  "keywords": [
+    "nodebb",
+    "lavender",
+    "theme",
+    "themes"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-lavender/issues"
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "~0.0.13"
+  },
+  "readme": "Lavender Theme for NodeBB\r\n=========================\r\n\r\nA simple theme for NodeBB. Check out the theming guide that accompanies this work at http://burnaftercompiling.com/nodebb/nodebb-hands-on-theming-guide-part-1/\r\n\r\n\r\n## Screenshots\r\n\r\n**Home View**\r\n\r\n[![Home View](http://i.imgur.com/IJDUFB4l.png)](http://i.imgur.com/IJDUFB4.png)\r\n\r\n**Category View**\r\n\r\n[![Category View](http://i.imgur.com/JalyDRpl.png)](http://i.imgur.com/JalyDRp.png)\r\n\r\n**Topic View**\r\n\r\n[![Topic View](http://i.imgur.com/R8YhchEl.png)](http://i.imgur.com/R8YhchE.png)\r\n\r\n## Installation\r\n\r\n    npm install nodebb-theme-lavender\r\n\r\n\r\n## Credits\r\n\r\nvariables.less modified from \"White Plum\" by [divshot](https://github.com/divshot/)",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/psychobunny/nodebb-theme-lavender",
+  "_id": "nodebb-theme-lavender@0.0.19",
+  "_from": "nodebb-theme-lavender@~0.0"
+}
